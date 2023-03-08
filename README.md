@@ -15,9 +15,7 @@ Provides an OpenSearchDescription xml for your wordpress installation, served as
 
 ## Authors
 
-ex. Jim Brittain
-ex. [@jimbrittain](https://github.com/jimbrittain/)
-ex. [immaturedawn](http://www.immaturedawn.co.uk)
+* Jim Brittain: [@jimbrittain](https://github.com/jimbrittain/) [immaturedawn](http://www.immaturedawn.co.uk)
 
 ## Version History
 
