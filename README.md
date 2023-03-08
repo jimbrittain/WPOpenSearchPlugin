@@ -4,7 +4,7 @@ A minimal plugin that creates an OpenSearchDescription xml and adds the appropri
 
 ## Description
 
-Provides an OpenSearchDescription xml for your wordpress installation, served as application/opensearchdescription+xml and includes the necessary profile and link to the wp_head to your installation/theme &gt;head&lt;. A possible extension would be if variables are supplied within the url these could be used as examples throughout.
+Provides an OpenSearchDescription xml for your wordpress installation, served as application/opensearchdescription+xml and includes the necessary profile and link to the wp_head to your installation/theme &lt;head&gt;. A possible extension would be if variables are supplied within the url these could be used as examples throughout.
 
 ## Getting Started
 
