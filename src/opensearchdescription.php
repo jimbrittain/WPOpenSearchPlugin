@@ -8,8 +8,8 @@
     if (function_exists('wp')) {
         wp();
     }
+    echo '<?xml version="1.0" encoding="UTF-8"?>';
 ?>
-<?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
     <InputEncoding><?php echo get_bloginfo('charset'); ?></InputEncoding>
     <OutputEncoding><?php echo get_bloginfo('charset'); ?></OutputEncoding>
